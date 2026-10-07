@@ -50,31 +50,6 @@ Atuo na capacitação de pessoas de diferentes áreas para o uso de IA. Meu foco
 
 ---
 
-## Projetos em destaque
-
-### [VBA Webhooks — alertas do Excel no Teams](https://github.com/bsgustavo/vba-webhooks)
-Módulo VBA que avisa no Microsoft Teams quando células monitoradas de uma planilha Excel mudam, por um webhook do Power Automate.
-
-`VBA` `Excel` `Power Automate` `Microsoft Teams` `Webhook`
-
----
-### [MCP Toggle for Claude](https://github.com/bsgustavo/mcp-toggle-for-claude)
-O Claude Desktop não tem botão de liga/desliga para MCPs locais. Esta ferramenta resolve isso, com backup automático e nada rodando em segundo plano.
-
-`PowerShell` `MCP` `Claude Desktop`
-
----
-### [Delete Claude Sessions](https://github.com/bsgustavo/delete-claude-sessions)
-Janela para Windows que exclui de verdade as sessões do Claude Code na extensão do VS Code, por grupo. Confirmação por digitação e envio para a Lixeira.
-
-`PowerShell` `WinForms` `Claude Code` `VS Code`
-
----
-
-Projetos corporativos de BI e IA estão no meu [LinkedIn](https://www.linkedin.com/in/eugustavobs/details/projects/).
-
----
-
 ## Stack
 
 <table>
