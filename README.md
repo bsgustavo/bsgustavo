@@ -1,17 +1,18 @@
 # Gustavo Schmeier
 
-## Arquiteto de Soluções | IA Aplicada | Engenharia de Dados | Business Intelligence
+## AI Engineer | Analytics Engineer | Data Engineer
 
-Meu foco está em **inovação e automação de processos com IA**.
-Tenho base sólida em **Business Intelligence**: entrego dados que viram decisão, redução de custo e eficiência operacional mensurável para operações de grande porte.
+Trabalho com **inteligência artificial e dados** para transformar processos corporativos por meio de automação inteligente, integração de sistemas e soluções orientadas a resultados.
+
+Minha trajetória foi construída em **Business Intelligence**, em projetos para grandes operações e soluções de dados que apoiam decisões estratégicas. Hoje aplico **IA para resolver problemas reais de negócio**, combinando arquitetura, automação e conhecimento dos processos da empresa.
 
 ---
 
 <table>
 <tr>
-<td align="center" width="33%"><h3>+40</h3>projetos de BI entregues<br><sub>Vale, PepsiCo, Suzano, ArcelorMittal e Ultragaz</sub></td>
+<td align="center" width="33%"><h3>+40</h3>projetos de BI<br><sub>Vale, PepsiCo, Boehringer, Suzano e ArcelorMittal</sub></td>
 <td align="center" width="33%"><h3>+60</h3>indicadores estratégicos<br><sub>no primeiro ano na Mundial S.A.</sub></td>
-<td align="center" width="33%"><h3>+20</h3>pessoas mentoradas<br><sub>em inteligência artificial</sub></td>
+<td align="center" width="33%"><h3>+20</h3>profissionais mentorados<br><sub>no uso de inteligência artificial</sub></td>
 </tr>
 </table>
 
@@ -19,34 +20,22 @@ Tenho base sólida em **Business Intelligence**: entrego dados que viram decisã
 
 ## O que eu faço
 
-### Inteligência Artificial Aplicada
-- **Agentes de IA** com memória, roteamento e contexto de negócio
-- **MCPs personalizados** com FastMCP, Python SDK e FastAPI
-- **RAG** (Retrieval-Augmented Generation): tradicional, híbrido e multi-etapas
-- Agentes especializados com **LangGraph**, **LangChain**, **Agno** e **OpenAI SDK**
-- **Harness Engineering**
-- Embeddings + busca vetorial
-- Sistemas multi-agentes com protocolos **A2A**, **MCP** e BFA
+### Inteligência Artificial e Automação
+- Arquitetura e desenvolvimento de **agentes de IA** com memória, contexto e integração com sistemas corporativos
+- **RAG** (Retrieval-Augmented Generation), busca semântica e bancos vetoriais
+- Desenvolvimento de **servidores MCP** e integração de ferramentas e APIs
+- Orquestração de agentes e fluxos inteligentes
+- Arquiteturas **multiagentes** e protocolos de comunicação entre agentes
 
-### Engenharia de Dados
-- Pipelines de ingestão, transformação e carga com arquitetura **Medallion (Bronze / Silver / Gold)**
-- Modelagem dimensional
-- Storage em **Parquet / Delta Lake**
-- Integração de múltiplas fontes
-- Orquestração de pipelines
-- APIs **REST**, **SOAP**, **WebSocket** e **Webhooks**
+### Business Intelligence e Engenharia de Dados
+- **Power BI** avançado: DAX, Power Query, modelagem, RLS e otimização de performance
+- **SQL**, bancos de dados relacionais e integração de múltiplas fontes
+- Modelagem dimensional, arquitetura de dados e pipelines
+- Automação de processos e transformação de dados
 
-### Análise de Dados / BI
-- **Power BI**: DAX, M, VertiPaq, RLS e tuning de performance
-- **SQL**: PL/SQL, MySQL, SQL Server, PostgreSQL
-- Excel, VBA e macros
-- Google Data Studio e Tableau
-- **RPA** com Python e Power Automate
-- Metodologias ágeis (Scrum, Kanban)
-
-### Capacitação em IA
-Uma parte do meu trabalho que valorizo tanto quanto a técnica: **espalhar capacidade**.
-Atuo na capacitação de pessoas de diferentes áreas para o uso de IA. Meu foco não é só implementar: é **formar cultura de dados e capacidade de uso de IA**.
+### Capacitação e Cultura de IA
+Acredito que o verdadeiro potencial da IA não está só na tecnologia, mas nas pessoas que a usam para mudar a forma como trabalham.
+Por isso, além de desenvolver soluções, capacito profissionais de diferentes áreas, promovendo a **adoção prática de IA** e fortalecendo a cultura de inovação.
 
 ---
 
@@ -55,27 +44,27 @@ Atuo na capacitação de pessoas de diferentes áreas para o uso de IA. Meu foco
 <table>
 <tr>
 <td><b>IA / LLM</b></td>
-<td>Claude, OpenAI SDK, LangGraph, LangChain, Agno, MCP (FastMCP), RAG, Embeddings, busca vetorial</td>
+<td>Claude, OpenAI SDK, LangGraph, LangChain, Agno, MCP (FastMCP), RAG, embeddings, bancos vetoriais</td>
 </tr>
 <tr>
 <td><b>Dados</b></td>
-<td>Python, SQL, Parquet, Delta Lake, arquitetura Medallion, modelagem dimensional</td>
+<td>Python, SQL, PL/SQL, modelagem dimensional, data warehouse</td>
 </tr>
 <tr>
 <td><b>BI</b></td>
-<td>Power BI (DAX, M, VertiPaq, RLS), Excel / VBA, Tableau, Google Data Studio</td>
+<td>Power BI (DAX, Power Query, RLS, Embedded)</td>
 </tr>
 <tr>
 <td><b>Bancos</b></td>
-<td>Oracle (PL/SQL), SQL Server, MySQL, PostgreSQL</td>
+<td>Oracle, PostgreSQL, SQL Server, MySQL</td>
 </tr>
 <tr>
 <td><b>Backend / APIs</b></td>
-<td>FastAPI, REST, SOAP, WebSocket, Webhooks</td>
+<td>FastAPI, REST, SOAP, Webhooks</td>
 </tr>
 <tr>
 <td><b>Automação</b></td>
-<td>Power Automate, RPA com Python, PowerShell</td>
+<td>Python, Power Automate, PowerShell</td>
 </tr>
 <tr>
 <td><b>Gestão</b></td>
@@ -94,12 +83,10 @@ Atuo na capacitação de pessoas de diferentes áreas para o uso de IA. Meu foco
   <img width="50" height="50" src="https://cdn.simpleicons.org/langchain/1C3C3C/ffffff" title="LangChain / LangGraph" />
   <img width="50" height="50" src="https://cdn.simpleicons.org/modelcontextprotocol/000000/ffffff" title="Model Context Protocol (MCP)" />
   <img width="50" height="50" src="https://img.icons8.com/color/96/power-bi.png" title="Power BI" />
-  <img width="50" height="50" src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" title="Excel" />
-  <img width="50" height="50" src="https://img.icons8.com/color/96/tableau-software.png" title="Tableau" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" />
+  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="SQL Server" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" title="PowerShell" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" />
@@ -109,8 +96,8 @@ Atuo na capacitação de pessoas de diferentes áreas para o uso de IA. Meu foco
 
 ## Foco atual
 
-- Agentes de IA em produção, com RAG, memória e contexto de negócio
-- MCPs que conectam a IA aos sistemas da empresa
+- Agentes de IA em produção, integrados aos sistemas da empresa
+- Engenharia de dados em cloud: **Azure Synapse**, **PySpark** e **Delta Lake** em arquitetura medalhão
 - Automação de processos ponta a ponta com IA
 - Capacitação de times em IA e cultura de dados
 
